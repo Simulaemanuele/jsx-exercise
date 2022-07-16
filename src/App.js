@@ -6,7 +6,6 @@ export class App extends React.Component {
         return <div>
             <h1>JSX-EXERCISES</h1>
 
-            <HelloWorld />
         </div>
     }
 }
